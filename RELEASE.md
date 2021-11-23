@@ -22,6 +22,7 @@
 *   Register s2t ops before loading decoder in record_to_tensor_tfxio if
     struct2tensor is installed.
 *   Depends on `pyarrow>=1,<6`.
+*   Depends on `google-api-python-client>=1.7.11,<3`.
 
 ## Breaking Changes
 
